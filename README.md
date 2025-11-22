@@ -1,6 +1,7 @@
 # Blaq-boy MD
 Al assistant 
-<h1 align="center"> 𝐒𝐊𝐘𝐏𝐄𝐑 𝐌𝐃 </h1>
+https://github.com/shiny-chainsaw/blaqboymd
+<h1 align="center"> BLAQ-BOY 𝐌𝐃 </h1>
 
 <p align="center">
   <a href="https://github.com/Blaq-boy/SKYPER-MD">
@@ -17,7 +18,7 @@ Al assistant
 <p align="center">
     <strong>1. FORK REPOSITORY</strong>
   <br>
-    <a href="https://github.com/Blaq-boy/SKYPER-MD/fork" target="_blank">
+    <a href="https://github.com/shiny-chainsaw/SKYPER-MD/fork" target="_blank">
         <img alt="Fork Repo" src="https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue"/>
     </a>
 </p>
