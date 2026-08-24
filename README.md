@@ -1,13 +1,8 @@
-# Blaq-boy MD
+# TANISHA MD
 Al assistant 
 https://github.com/shiny-chainsaw/blaqboymd
-<h1 align="center"> BLAQ-BOY 𝐌𝐃 </h1>
+<h1 align="center"> TANISHA 𝐌𝐃 </h1>
 
-<p align="center">
-  <a href="https://github.com/Blaq-boy/SKYPER-MD">
-    <img alt="SKYPER-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
-  </a>
-</p>
     
 </a>
 </p>
