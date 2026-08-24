@@ -1,6 +1,5 @@
 # TANISHA MD
-Al assistant 
-https://github.com/shiny-chainsaw/blaqboymd
+______
 <h1 align="center"> TANISHA 𝐌𝐃 </h1>
 
     
