@@ -1,0 +1,15 @@
+{
+  "name": "tanisha-md",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TANISHA-MD bot scaffold",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js && node --check lib/*.js && find commands -name '*.js' -print0 | xargs -0 -n1 node --check",
+    "test": "node test/smoke.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
