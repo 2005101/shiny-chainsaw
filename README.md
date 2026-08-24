@@ -1,7 +1,6 @@
-# TANISHA MD
-______
-<h1 align="center"> TANISHA 𝐌𝐃 </h1>
 
+<h1 align="center"> TANISHA 𝐌𝐃 </h1>
+______
     
 </a>
 </p>
